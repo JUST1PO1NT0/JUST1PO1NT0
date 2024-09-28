@@ -1,6 +1,15 @@
-## Hi there 👋
+## Hi 👋, I'm Gleb and I stay away from ✨
 
-<!--
+I'm a frontend web and mobile application developer, I also specialise in UI and UX design. I'm also the founder of B9 Creators, a partnership between developers to provide web and mobile application, and design services to clients in the UK, and EU and EFTA countries.
+
+🔭 I'm currently working on... Whoops! Can't tell you because it's confidential, but I always keep my website www.b9creators.co.uk updated - 9 times out of 10, you'll find me working on that.
+💬 This guy isn't just any developer, I'm a local activist in Cambridge looking to overhaul the bus network, providing the local governing authority with valuable information, assisting them in their provisions to franchise the bus network. If you want to hear someone yammer on about how to run a public transport network - I might be the person.
+
+If you wanna reach me, I've got an email address you can use: gleb@b9creators.co.uk.
+
+
+
+<!-- to
 **JUST1PO1NT0/JUST1PO1NT0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
